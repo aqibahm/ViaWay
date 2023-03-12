@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-03-05T00:13:32Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Untitled"
+        },
+        "Owner": "Aqib A. <aqibahm@uw.edu>",
+        "Size": {
+            "X": 34.27,
+            "Y": 55.55
+        }
+    }
+}
